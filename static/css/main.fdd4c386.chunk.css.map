@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,IACI,WAAW,CACX,YAAY,CACZ,qBAAqB,CACrB,WACJ","file":"main.fdd4c386.chunk.css","sourcesContent":["img{\r\n    width:100px;\r\n    height:100px;\r\n    border:1px solid #ddd;\r\n    padding:5px;\r\n}"]}
